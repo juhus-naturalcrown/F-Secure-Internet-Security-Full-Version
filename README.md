@@ -241,4 +241,4 @@ This repository serves as the official landing page for F-Secure Internet Securi
 **Get the most recent version of F-Secure Internet Security today!**
 
 ---
-**Last updated:** 2026-10-18 07:36:16 UTC
+**Last updated:** 2026-10-18 12:19:19 UTC
